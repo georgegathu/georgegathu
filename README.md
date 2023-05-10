@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGU1NzkxYzViMTA4OWE0MzU2YTQ3OWQ3YzFhZTRmYzg3OTMwZmFhMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/26tn33aiTi1jkl6H6/giphy.gif)](https://rishavchanda.io)
+[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGU1NzkxYzViMTA4OWE0MzU2YTQ3OWQ3YzFhZTRmYzg3OTMwZmFhMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/26tn33aiTi1jkl6H6/giphy.gif)](https://georgegathu.io)
 <h1 align="center">Hi 👋, I'm George Gathu</h1>
 <h3 align="center">A passionate Techie from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif">
