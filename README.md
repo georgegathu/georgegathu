@@ -1,11 +1,11 @@
 [![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGU1NzkxYzViMTA4OWE0MzU2YTQ3OWQ3YzFhZTRmYzg3OTMwZmFhMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/26tn33aiTi1jkl6H6/giphy.gif)](https://georgegathu.io)
-<h1 align="center">Hi 👋, I'm George Gathu</h1>
-<h3 align="center">A passionate Techie from Kenya</h3>
+<h1 align="center">Hi 👋, I'm George </h1>
+<h3 align="center">A passionate Tech enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgegathu&label=Profile%20views&color=0e75b6&style=flat" alt="georgegathu" /> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **C,Go,Python and Ethical hacking**
 
 - 👨‍💻 All of my projects are available at [COMING SOON...]
 
