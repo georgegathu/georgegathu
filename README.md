@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frontend Development**
 
-- 👨‍💻 All of my projects are available at [COMING SOON...](COMING SOON...)
+- 👨‍💻 All of my projects are available at [COMING SOON...]
 
 - 📝 I regularly write articles on [https://medium.com/@ggeorge.gathu](https://medium.com/@ggeorge.gathu)
 
@@ -15,11 +15,11 @@
 
 - 📫 How to reach me **ggeorge.gathu@gmail.com**
 
-- ⚡ Fun fact **Soon to be Cyber Security Analyst!**
+- ⚡ Fun fact **a Cyber Security Analyst in the making**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/deejay_gathu254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deejay_gathu254" height="30" width="40" /></a>
+<a href="https://twitter.com/gathu254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gathu254" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/georgegathu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgegathu" height="30" width="40" /></a>
 <a href="https://hashnode.com/@georgegathu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@georgegathu" height="30" width="40" /></a>
 <a href="https://medium.com/@ggeorge.gathu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ggeorge.gathu" height="30" width="40" /></a>
